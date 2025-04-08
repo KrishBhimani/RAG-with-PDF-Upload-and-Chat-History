@@ -4,7 +4,7 @@ A powerful Retrieval-Augmented Generation (RAG) system designed for document-bas
 
 ## 🚀 Features
 
-- **User Input Required: Users must input their own GROQ_API_KEY to use this application.
+- **User Input Required**: Users must input their own GROQ_API_KEY to use this application.
 - **PDF Upload Support**: Easily upload and process documents for efficient retrieval.
 - **Chat History Retention**: Maintains conversation history for better contextual understanding.
 - **RAG Architecture**: Enhances response accuracy by retrieving relevant document snippets.
